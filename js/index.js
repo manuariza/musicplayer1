@@ -87,7 +87,7 @@ const songList = [
         wide: 'https://i.ytimg.com/vi/boeuk8N_Gsw/maxresdefault.jpg',
       },
     },
-    url: `${archiveBase}/LostOnYou_201610/Lost On You.mp3`,
+    url: `/mp3/Absentia.mp3`,
   },
   {
     title: 'Bad Liar',
